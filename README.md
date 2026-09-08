@@ -5,7 +5,7 @@
 - 💻 Currently focusing on learn web and mobile development
 - 🎯 Always looking to improve my skills and learn about systems
 - 💬 Feel free to reach out to discuss about me
-- Portuguese 🇧🇷 English 🇺🇸
+- Portuguese 🇧🇷 / English 🇺🇸
 
 
 ---
