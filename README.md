@@ -5,7 +5,7 @@
 - 💻 Currently focusing on learn web and mobile development
 - 🎯 Always looking to improve my skills and learn about systems
 - 💬 Feel free to reach out to discuss about me
-- • <img src="https://flagcdn.com" width="16"> Portuguese • <img src="https://flagcdn.com" width="16"> English
+- Portuguese 🇧🇷 English 🇺🇸
 
 
 ---
