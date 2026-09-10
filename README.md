@@ -1,7 +1,7 @@
 # Hi there! I'm Yuji 👋
 
 ### About Me
-- 🎓 Student of **Systems Development** in IFSP graduation and ETEC NOVA ODESSA/SP certification**
+- 🎓 Student of **Systems Development** in IFSP graduation and ETEC NOVA ODESSA/SP certification
 - 💻 Currently focusing on learn web and mobile development
 - 🎯 Always looking to improve my skills and learn about systems
 - 💬 Feel free to reach out to discuss about me
